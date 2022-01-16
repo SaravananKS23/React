@@ -1,0 +1,31 @@
+.list-wrapper {
+  font-family: sans-serif;
+  margin: 10px;
+  border: 1px solid #ccc;
+  background-color: ghostwhite;
+  padding: 5px 10px;
+}
+
+.list-product {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list-product button {
+  margin-left:20px;
+}
+
+
+.title-section {
+  display: flex;
+  justify-content:center;
+  align-itmes:center;
+}
+
+.title-section > input {
+margin-left: 10px;
+margin-right: 10px;
+height: 20px;
+
+}
